@@ -1,4 +1,4 @@
-PyMySQL==1.0.2
-pandas==1.0.5
-SQLAlchemy==1.3.17
-yfinance==0.1.55
+PyMySQL
+pandas
+SQLAlchemy
+yfinance
